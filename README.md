@@ -1,0 +1,1 @@
+This is a Multi User Login website, where the profile of the users will be maintained by the admin, and also this includes the features of the Gamification and an Custom mail system which enables the Admin to mail from a EMAIL_HOST_ID to the other id's inside the Website, ie., to other users
